@@ -7,5 +7,4 @@
 - Blockchain L2 solution
 - Dapp development on Polygon zkEVM 
 
-![](https://raw.githubusercontent.com/djm07073/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/djm07073/github-stats/master/generated/overview.svg#gh-light-mode-only)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=djm07073)](https://git.io/streak-stats)
