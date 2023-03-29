@@ -1,6 +1,6 @@
 ## Contract Developer
 - Blockchain Valley Contract developer
-- 
+
 
 ## Interest
 - Defi protocol, solution
