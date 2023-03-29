@@ -2,7 +2,10 @@
 - Suha jin ,Korea University EE
 - Blockchain Valley Contract developer
 
-
+## Skills
+- Solidity
+- C/C++
+- Nest.js
 ## Interest
 - Defi protocol, solution
 - Blockchain L2 solution
