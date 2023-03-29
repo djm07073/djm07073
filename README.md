@@ -1,4 +1,5 @@
-## Contract Developer
+## About Me
+- Suha jin ,Korea University EE
 - Blockchain Valley Contract developer
 
 
