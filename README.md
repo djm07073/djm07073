@@ -49,13 +49,13 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 
 # 👨‍💻 **Things I code with**
 <div>
-  <img src = https://github.com/djm07073/djm07073/assets/89185836/deb0aba4-bd4f-45b5-b55d-ae1727a252af , style="width:100px; height:100px;" >
-  <img src = https://github.com/djm07073/djm07073/assets/89185836/70963564-7fd0-44c4-9aef-966ca4df0136,style="width:100px; height:100px;">
-  <img src = https://github.com/djm07073/djm07073/assets/89185836/1610a381-c0d7-481a-944e-cb1596a9b324,style="width:100px; height:100px;">
-  <img src = https://github.com/djm07073/djm07073/assets/89185836/39dabdcf-8d9a-4124-adc7-48d3296ec666,style="width:100px; height:100px;">
-  <img src = https://github.com/djm07073/djm07073/assets/89185836/c1a06b85-5131-4bbc-a418-2ba9379ce419,style="width:100px; height:100px;">
-  <img src = https://github.com/djm07073/djm07073/assets/89185836/a95c6e23-b22e-4b77-b285-e2150f79b9c2,style="width:100px; height:100px;">
-  <img src = https://github.com/djm07073/djm07073/assets/89185836/5c7cfd46-ad22-4245-9130-7b96be5d0422,style="width:100px; height:100px;">
+  <img src = https://github.com/djm07073/djm07073/assets/89185836/deb0aba4-bd4f-45b5-b55d-ae1727a252af style="width:100px; height:100px;">
+  <img src = https://github.com/djm07073/djm07073/assets/89185836/70963564-7fd0-44c4-9aef-966ca4df0136 style="width:100px; height:100px;">
+  <img src = https://github.com/djm07073/djm07073/assets/89185836/1610a381-c0d7-481a-944e-cb1596a9b324 style="width:100px; height:100px;">
+  <img src = https://github.com/djm07073/djm07073/assets/89185836/39dabdcf-8d9a-4124-adc7-48d3296ec666 style="width:100px; height:100px;">
+  <img src = https://github.com/djm07073/djm07073/assets/89185836/c1a06b85-5131-4bbc-a418-2ba9379ce419 style="width:100px; height:100px;">
+  <img src = https://github.com/djm07073/djm07073/assets/89185836/a95c6e23-b22e-4b77-b285-e2150f79b9c2 style="width:100px; height:100px;">
+  <img src = https://github.com/djm07073/djm07073/assets/89185836/5c7cfd46-ad22-4245-9130-7b96be5d0422 style="width:100px; height:100px;">
 </div>
 
 # 📞 Contact
