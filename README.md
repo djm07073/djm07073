@@ -61,52 +61,6 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
   <img src = https://github.com/djm07073/djm07073/assets/89185836/5c7cfd46-ad22-4245-9130-7b96be5d0422 style="width:100px; height:100px;">
 </div>
 
-# 📞 Contact
-
-email: [leojean0227@gmail.com](mailto:leojean0227@gmail.com)
-
-linkedin:https://www.linkedin.com/in/beakerjin/
-
-# 🏆️Award
-
-## [ETHGlobal Tokyo](https://ethglobal.com/showcase/defuture-g31hx)
-
-**🏆 MetaMask, Best Use of Linea**
-
-**🏆 Polygon, Pool Prize**
-
-**📜 Scroll, Just Deploy**
-
-### Defuture
-
-Fully decentralized futures trading platform that enables easy position management through hedging and leverage for DEX.
-
-- [ETHGlobal Showcase](https://ethglobal.com/showcase/defuture-g31hx)
-- [github](https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures)
-
-## [Glitch Hackathon](https://glitch-hack.com/)
-
-### *🏆 Bifrost Track 2nd place
-
-Bi-funnel**
-
-Make easy defi investment with Bifrost chainrunner API
-
-**[github](https://github.com/take5ive/liquidity-bifunnel-contract)(private)**
-
-## [ETH Seoul](https://devfolio.co/projects/wifi-ca12)
-
-**🏆 Financial Application, 1st prize(Organizer Prize)**
-
-**🏆 The graph, Best Use of Existing Subgraphs**
-
-### WiFi
-
-Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in exploring, investing in various DeFi opportunities without the need to leave the dApp even once.
-
-- [Project Details](https://devfolio.co/projects/wifi-ca12)
-- [github](https://github.com/take5ive/wi-fi-eth-seoul)
-
 
 
 # 📞 Contact
