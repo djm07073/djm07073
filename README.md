@@ -35,8 +35,8 @@ Fully decentralized futures trading platform that enables easy position manageme
 ### Bi-funnel
 
 Make easy defi investment with Bifrost chainrunner API
-
-**[github](https://github.com/take5ive/liquidity-bifunnel-contract)(private)**
+- [Glitch Hackathon Youtube](https://www.youtube.com/watch?v=u8vomFghJjg)
+- [github](https://github.com/take5ive/liquidity-bifunnel-contract)(private)
 
 ## [ETH Seoul](https://devfolio.co/projects/wifi-ca12)
 
