@@ -104,7 +104,6 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 - [Project Details](https://devfolio.co/projects/wifi-ca12)
 - [github](https://github.com/take5ive/wi-fi-eth-seoul)
 
-# 👨‍💻 **Things I code with**
 
 # 📞 Contact
 <a href = https://www.linkedin.com/in/beakerjin/ title = "Contact with Linkedin">
