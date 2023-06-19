@@ -66,6 +66,9 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 # 📞 Contact
 
 <img src = https://github.com/djm07073/djm07073/assets/89185836/bf197c40-683e-44e9-8c50-b95be8362f73 style="width:50px; height:50px;">
+</p>
 <a href = https://www.linkedin.com/in/beakerjin/ title = "Contact with Linkedin"> linkedin <a/>
+</p>
 <img src = https://github.com/djm07073/djm07073/assets/89185836/e2439676-da6b-445f-97a7-a9529e488025 style="width:50px; height:50px;">
+</p>
 <a href = "mailto: leojean0227@gmail.com" title = "Contact with email"> email </a>
