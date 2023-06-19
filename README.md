@@ -31,6 +31,7 @@ Fully decentralized futures trading platform that enables easy position manageme
 ## [Glitch Hackathon](https://glitch-hack.com/)
 
 **🏆 Bifrost Track 2nd place
+
 ### Bi-funnel
 
 Make easy defi investment with Bifrost chainrunner API
