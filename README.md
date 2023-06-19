@@ -7,6 +7,10 @@
 - 🏢 **Blockchain Valley Development Team Leader (2nd term)**
 - 💼 **Currently, I am studying on a proper investment method for AA or several DeFi protocols to solve the UX problem of DeFi.**
 
+
+
+
+
 # 🏆️Award
 
 ## [ETHGlobal Tokyo](https://ethglobal.com/showcase/defuture-g31hx)
@@ -103,6 +107,7 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 
 - [Project Details](https://devfolio.co/projects/wifi-ca12)
 - [github](https://github.com/take5ive/wi-fi-eth-seoul)
+
 
 
 # 📞 Contact
