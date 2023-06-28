@@ -50,6 +50,18 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 - [Project Details](https://devfolio.co/projects/wifi-ca12)
 - [github](https://github.com/take5ive/wi-fi-eth-seoul)
 
+## [Polygon DevX Global Tour APAC Hackathon(https://polygon.technology/devxglobaltour/hackathon)]
+
+**🏆 Application Layer Track Winners**
+
+## WiFi
+
+Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in exploring, investing in various DeFi opportunities without the need to leave the dApp even once.
+
+- [Project Details](https://devfolio.co/projects/wifi-ca12)
+- [github](https://github.com/take5ive/wi-fi-eth-seoul)
+
+
 # 👨‍💻 **Things I code with**
 <div>
   <img src = https://github.com/djm07073/djm07073/assets/89185836/deb0aba4-bd4f-45b5-b55d-ae1727a252af style="width:50px; height:50px;">
