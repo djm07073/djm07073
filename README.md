@@ -1,6 +1,5 @@
 # 🧪🧪🧪 🧪Welcome to Beaker ‘s Github 🧪🧪🧪🧪
 
-# 😎 Let me introduce myself
 
 - ✏️ **Department of Electrical and Electronic Engineering, Korea University**
 - 💻 **Smart Contract Developer and Front Developer**
