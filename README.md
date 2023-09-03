@@ -63,9 +63,11 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 ## Additional awards received
 **🏆 Decreasing Frictions in DeFi**
 [Twitter Link](https://twitter.com/0xProject/status/1679581592761794562)
+**Team: Wifi**
 
 **🏆 Ethcon Korea : Spark, Taiko Track**
 [Twitter Link](https://twitter.com/ethconkr/status/1698269334555312501)
+**Team: Toaster**
 
 # 👨‍💻 **Things I code with**
 <div>
@@ -78,7 +80,7 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
   <img src = https://github.com/djm07073/djm07073/assets/89185836/5c7cfd46-ad22-4245-9130-7b96be5d0422 style="width:50px; height:50px;">
 </div>
 
-
+# 👨‍💻 **Open source**
 
 # 📞 Contact
 
