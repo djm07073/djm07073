@@ -1,4 +1,4 @@
-# 🧪🧪🧪 🧪Welcome to Beaker ‘s Github 🧪🧪🧪🧪
+<h1 style="text-align: center"> 🧪🧪🧪🧪Welcome to Beaker's Github 🧪🧪🧪🧪</h1>
 
 
 - ✏️ **Department of Electrical and Electronic Engineering, Korea University**
@@ -60,7 +60,12 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 
 - [Project Details](https://devfolio.co/projects/wifi-ca12)
 - [github](https://github.com/take5ive/wi-fi-eth-seoul)
+## Additional awards received
+**🏆 Decreasing Frictions in DeFi**
+[Twitter Link](https://twitter.com/0xProject/status/1679581592761794562)
 
+**🏆 Ethcon Korea : Spark, Taiko Track**
+[Twitter Link](https://twitter.com/ethconkr/status/1698269334555312501)
 
 # 👨‍💻 **Things I code with**
 <div>
