@@ -62,11 +62,15 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 - [github](https://github.com/take5ive/wi-fi-eth-seoul)
 ## Additional awards received
 **🏆 Decreasing Frictions in DeFi**
+
 [Twitter Link](https://twitter.com/0xProject/status/1679581592761794562)
+
 **Team: Wifi**
 
 **🏆 Ethcon Korea : Spark, Taiko Track**
+
 [Twitter Link](https://twitter.com/ethconkr/status/1698269334555312501)
+
 **Team: Toaster**
 
 # 👨‍💻 **Things I code with**
