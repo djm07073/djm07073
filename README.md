@@ -1,4 +1,4 @@
-<h1 style="text-align: center"> 🧪🧪🧪🧪Welcome to Beaker's Github 🧪🧪🧪🧪</h1>
+<h1 style="text-align: center"> Welcome to Beaker's Github </h1>
 
 
 - ✏️ **Department of Electrical and Electronic Engineering, Korea University**
