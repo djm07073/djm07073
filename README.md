@@ -60,6 +60,11 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 
 - [Project Details](https://devfolio.co/projects/wifi-ca12)
 - [github](https://github.com/take5ive/wi-fi-eth-seoul)
+
+**🏆 ETH Global NewYork : Uniswap Foundation**
+- [Project Details](https://ethglobal.com/showcase/nycv4hermit-dj0um)
+- [github](https://github.com/djm07073/ETHNewYork-Hook-LAB)
+
 ## Additional awards received
 **🏆 Decreasing Frictions in DeFi**
 
@@ -72,8 +77,8 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 [Twitter Link](https://twitter.com/ethconkr/status/1698269334555312501)
 
 **Team: Toaster**
-**🏆 Ethcon NewYork : Uniswap Foundation**
-- [Project Details](https://ethglobal.com/showcase/nycv4hermit-dj0um)
+
+
 # 👨‍💻 **Things I code with**
 <div>
   <img src = https://github.com/djm07073/djm07073/assets/89185836/deb0aba4-bd4f-45b5-b55d-ae1727a252af style="width:50px; height:50px;">
