@@ -84,6 +84,8 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 # 👨‍💻 **Things I code with**
 <div>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
 </div>
 
 # 👨‍💻 **Open source**
