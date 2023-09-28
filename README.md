@@ -91,6 +91,7 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 
 
 # 👨‍💻 **Open source**
+- [Rebalancing V4 Pool Library](https://github.com/toaster-finance/rebalancing-v4-pool)
 
 # 📞 Contact
 
