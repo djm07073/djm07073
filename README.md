@@ -91,15 +91,17 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 
 
 # 👨‍💻 **Open source**
-- [Rebalancing V4 Pool Library](https://github.com/toaster-finance/rebalancing-v4-pool)
+
+- **Rebalancing V4 Pool Library**
+[github](https://github.com/toaster-finance/rebalancing-v4-pool)
+
 
 # 📞 Contact
-
-
-</p>
-<a href = https://www.linkedin.com/in/beakerjin/ title = "Contact with Linkedin"> linkedin <a/>
-</p>
-
-<p>
-<a href = "mailto: leojean0227@gmail.com" title = "Contact with email"> email </a>
-</p>
+<div>
+  <a href = https://www.linkedin.com/in/beakerjin/ title = "Contact with Linkedin"> 
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a/>
+  <a href = "mailto: leojean0227@gmail.com" title = "Contact with email"> 
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</div>
