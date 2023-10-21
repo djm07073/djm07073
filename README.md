@@ -43,8 +43,6 @@ Make easy defi investment with Bifrost chainrunner API
 
 **🏆 The graph, Best Use of Existing Subgraphs**
 
-### WiFi
-
 Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in exploring, investing in various DeFi opportunities without the need to leave the dApp even once.
 
 - [Project Details](https://devfolio.co/projects/wifi-ca12)
@@ -54,14 +52,13 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 
 **🏆 Application Layer Track Winners**
 
-## WiFi
-
 Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in exploring, investing in various DeFi opportunities without the need to leave the dApp even once.
 
 - [Project Details](https://devfolio.co/projects/wifi-ca12)
 - [github](https://github.com/take5ive/wi-fi-eth-seoul)
 
 ## [ETH Global NewYork](https://ethglobal.com/events/newyork2023)
+
 **🦄 Uniswap Foundation - Best Dev Tool**
 - [Project Details](https://ethglobal.com/showcase/nycv4hermit-dj0um)
 - [github](https://github.com/djm07073/ETHNewYork-Hook-LAB)
