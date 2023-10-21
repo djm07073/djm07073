@@ -62,12 +62,11 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 - [github](https://github.com/take5ive/wi-fi-eth-seoul)
 
 ## [ETH Global NewYork](https://ethglobal.com/events/newyork2023)
-**Uniswap Foundation - Best Dev Tool**
+**🦄 Uniswap Foundation - Best Dev Tool**
 - [Project Details](https://ethglobal.com/showcase/nycv4hermit-dj0um)
 - [github](https://github.com/djm07073/ETHNewYork-Hook-LAB)
 
 
-## Additional awards received
 **🏆 Decreasing Frictions in DeFi**
 
 [Twitter Link](https://twitter.com/0xProject/status/1679581592761794562)
