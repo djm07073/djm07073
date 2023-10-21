@@ -67,8 +67,8 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 **🏆 1st prize**
 
 [Twitter Link](https://twitter.com/0xProject/status/1679581592761794562)
-
 **Team: Wifi**
+
 ## ETHcon Korea
 **🏆 Ethcon Korea : Spark, Taiko Track**
 
