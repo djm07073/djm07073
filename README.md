@@ -66,13 +66,13 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 - [Project Details](https://ethglobal.com/showcase/nycv4hermit-dj0um)
 - [github](https://github.com/djm07073/ETHNewYork-Hook-LAB)
 
-
-**🏆 Decreasing Frictions in DeFi**
+## Decreasing Frictions in DeFi
+**🏆 1st prize**
 
 [Twitter Link](https://twitter.com/0xProject/status/1679581592761794562)
 
 **Team: Wifi**
-
+## ETHcon Korea
 **🏆 Ethcon Korea : Spark, Taiko Track**
 
 [Twitter Link](https://twitter.com/ethconkr/status/1698269334555312501)
