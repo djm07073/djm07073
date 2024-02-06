@@ -2,7 +2,7 @@
 
 
 - ✏️ **Department of Electrical and Electronic Engineering, Korea University**
-- 💻 **Smart Contract Developer and Front Developer**
+- 💻 **Smart Contract Developer**
 - 🏢 **Blockchain Valley Development Team Leader (2nd term)**
 - 💼 **Currently, I am studying on a proper investment method for AA or several DeFi protocols to solve the UX problem of DeFi.**
 
