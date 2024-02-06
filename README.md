@@ -75,7 +75,19 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 [Twitter Link](https://twitter.com/ethconkr/status/1698269334555312501)
 
 **Team: Toaster**
+## ETHGlobal Istanbul
 
+2023.11.17~2023.11.19
+
+🏆  1inch Network - Most Innovative Application on top of 1inch Network's Fusion API 1st Place
+
+🏆 Polygon, Polygon zkEVM DeFi Challenge
+
+Arbitrum, Pool Prize
+
+Scroll, Deploy on Scroll
+
+Chiliz, Pool Prize
 
 # 👨‍💻 **Things I code with**
 <div>
