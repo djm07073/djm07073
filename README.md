@@ -79,6 +79,7 @@ Solution to “Why(Wi) DeFi?” An all-in-one dApp with a seamless experience in
 
 2023.11.17~2023.11.19
 ([Project Detail](https://ethglobal.com/showcase/toaster-f5t8e))
+([Twitter Link](https://twitter.com/UniswapFND/status/1707742156151243128))
 
 🏆  1inch Network - Most Innovative Application on top of 1inch Network's Fusion API 1st Place
 
