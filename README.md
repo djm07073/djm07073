@@ -91,22 +91,14 @@ Scroll, Deploy on Scroll
 
 Chiliz, Pool Prize
 
-# 👨‍💻 **Things I code with**
-<div>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=Solidity&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-  <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white">
-</div>
 
-
-
-# 👨‍💻 **Open source**
+#### 👨‍💻 **Open source**
 
 - **Rebalancing V4 Pool Library**
 [github](https://github.com/toaster-finance/rebalancing-v4-pool)
 
 
-# 📞 Contact
+### 📞 Contact
 <div>
   <a href = https://www.linkedin.com/in/beakerjin/ title = "Contact with Linkedin"> 
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
