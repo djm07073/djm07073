@@ -10,17 +10,18 @@
 </div>
 
 ### 🏆️Awards
+- **🦄ETH Global New York, Uniswap Foundation - Best Dev Tool**
+  - [Project Details](https://ethglobal.com/showcase/nycv4hermit-dj0um)
+  - [GitHub](https://github.com/djm07073/ETHNewYork-Hook-LAB)
 - **🏆 ETHGlobal Istanbul, Most Innovative Application on Fusion API 1st Place**
   - 2023.11.17~2023.11.19
   - [Project Detail](https://ethglobal.com/showcase/toaster-f5t8e)
   - [Twitter](https://twitter.com/UniswapFND/status/1707742156151243128)
-- **ETHGlobal Tokyo 🏆 MetaMask, Best Use of Linea**
+- **🏆 ETHGlobal Tokyo MetaMask, Best Use of Linea**
   - **Defuture**: Decentralized futures trading platform for DEX.
   - [Showcase](https://ethglobal.com/showcase/defuture-g31hx)
   - [GitHub](https://github.com/ETHGlobal-Tokyo-ValleyDance/defutures)
-- **🦄ETH Global New York, Uniswap Foundation - Best Dev Tool**
-  - [Project Details](https://ethglobal.com/showcase/nycv4hermit-dj0um)
-  - [GitHub](https://github.com/djm07073/ETHNewYork-Hook-LAB)
+
 - **🏆 ETH Seoul, Financial Application 1st prize (Organizer Prize)**
   - **Wi-Fi DeFi**: All-in-one dApp for DeFi exploration and investment
   - [Project Details](https://devfolio.co/projects/wifi-ca12)
