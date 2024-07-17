@@ -1,7 +1,7 @@
 <h1 style="text-align: center"> Welcome to Leo Jin's Github </h1>
 
 - ✏️ **Department of Electrical and Electronic Engineering, Korea University**
-- 💻 **Core/Smart Contract Developer**
+- 💻 **Core/Smart Contract Developer(Solidity/Move)**
 
 <div>
   <a href="https://www.linkedin.com/in/beakerjin/" title="Contact with Linkedin">
