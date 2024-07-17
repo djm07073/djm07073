@@ -11,10 +11,11 @@
 
 ### 🏆️Awards
 - **🦄ETH Global New York, Uniswap Foundation - Best Dev Tool**
+  - Rebalancing liquidty library; before liquidity providing 
   - [Project Details](https://ethglobal.com/showcase/nycv4hermit-dj0um)
   - [GitHub](https://github.com/djm07073/ETHNewYork-Hook-LAB)
 - **🏆 ETHGlobal Istanbul, Most Innovative Application on Fusion API 1st Place**
-  - 2023.11.17~2023.11.19
+  - Add Post Action of 1inch fusion mode; non-gas, one-click defi order  
   - [Project Detail](https://ethglobal.com/showcase/toaster-f5t8e)
   - [Twitter](https://twitter.com/UniswapFND/status/1707742156151243128)
 - **🏆 ETHGlobal Tokyo MetaMask, Best Use of Linea**
