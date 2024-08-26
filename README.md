@@ -1,12 +1,4 @@
-<h1 style="text-align: center"> Welcome to Leo Jin's Github </h1>
 
-- 💻 **Core/Smart Contract Developer(Solidity/Move)**
-
-<div>
-  <a href="https://www.linkedin.com/in/beakerjin/" title="Contact with Linkedin">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
 
 ### 🏆️Awards
 - **🦄ETH Global New York, Uniswap Foundation - Best Dev Tool**
@@ -44,3 +36,9 @@
 #### 👨‍💻 Open source
 - **Rebalancing V4 Pool Library**
   - [GitHub](https://github.com/toaster-finance/rebalancing-v4-pool)
+
+<div>
+  <a href="https://www.linkedin.com/in/beakerjin/" title="Contact with Linkedin">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
